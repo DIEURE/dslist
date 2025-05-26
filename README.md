@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieureoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="dieureoliveira" /> </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
+#Sobre o projeto:
+<h3 align="left">Game é uma aplicação full stack web e mobile construída durante Semana DevSuperior (#sds1), evento organizado pela DevSuperior.
+
+A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.</h3>
 <p align="left">
 </p>
 
